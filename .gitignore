@@ -1,2 +1,2 @@
-py3k/**
-!py3k/requirements.txt
+virtualenvs/py3k/*
+!virtualenvs/py3k/requirements.txt
